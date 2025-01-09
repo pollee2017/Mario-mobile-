@@ -1,0 +1,5 @@
+{
+    "name": "super-mario-mobile-friendly",
+    "main": "electron-main.js",
+    "version": "1.0.0"
+}
